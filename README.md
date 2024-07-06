@@ -1,9 +1,9 @@
-# Angular Breadcrumb
+# Angular Breadcrumb with Angular Ivy support
 
 ## Installation
 
 ```shell
-npm install angular-crumbs --save
+npm i https://raw.githubusercontent.com/urbans-cl/angular-crumbs/master/angular-crumbs-9.0.0.tgz --save
 ```
 
 #### 1. Import the `BreadcrumbModule`
