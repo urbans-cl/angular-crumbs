@@ -1,0 +1,36 @@
+{
+  "name": "angular-crumbs",
+  "version": "9.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilol/angular-crumbs.git"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "breadcrumb"
+  ],
+  "author": "Emily Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilol/angular-crumbs/issues"
+  },
+  "homepage": "https://github.com/emilol/angular-crumbs#readme",
+  "peerDependencies": {
+    "@angular/common": "^9.1.1",
+    "@angular/core": "^9.1.1",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/angular-crumbs.umd.js",
+  "module": "fesm5/angular-crumbs.js",
+  "es2015": "fesm2015/angular-crumbs.js",
+  "esm5": "esm5/angular-crumbs.js",
+  "esm2015": "esm2015/angular-crumbs.js",
+  "fesm5": "fesm5/angular-crumbs.js",
+  "fesm2015": "fesm2015/angular-crumbs.js",
+  "typings": "angular-crumbs.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by Ivy. This is not allowed.\\nPlease delete and rebuild the package, without compiling with Ivy, before attempting to publish.\\n')\" && exit 1"
+  }
+}

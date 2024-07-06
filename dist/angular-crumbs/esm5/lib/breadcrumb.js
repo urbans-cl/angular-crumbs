@@ -1,0 +1,7 @@
+var Breadcrumb = /** @class */ (function () {
+    function Breadcrumb() {
+    }
+    return Breadcrumb;
+}());
+export { Breadcrumb };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYnJlYWRjcnVtYi5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FuZ3VsYXItY3J1bWJzLyIsInNvdXJjZXMiOlsibGliL2JyZWFkY3J1bWIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUE7SUFBQTtJQUtBLENBQUM7SUFBRCxpQkFBQztBQUFELENBQUMsQUFMRCxJQUtDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgUm91dGUgfSBmcm9tIFwiQGFuZ3VsYXIvcm91dGVyXCI7XHJcblxyXG5leHBvcnQgY2xhc3MgQnJlYWRjcnVtYiB7XHJcbiAgICBkaXNwbGF5TmFtZTogc3RyaW5nO1xyXG4gICAgdGVybWluYWw6IGJvb2xlYW47XHJcbiAgICB1cmw6IHN0cmluZztcclxuICAgIHJvdXRlOiBSb3V0ZSB8IG51bGw7XHJcbn1cclxuIl19
